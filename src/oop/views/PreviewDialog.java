@@ -11,6 +11,9 @@ import oop.model.Biodata;
 /**
  *
  * @author senja
+  * NIM : 21041041
+ * NAMA : BADI USZAMAN
+ * KELAS : 3F D3 TEKNIK KOMPUTER
  */
 public class PreviewDialog extends javax.swing.JFrame {
   String nama,  kelas, jk,alamat,  jurusan;
