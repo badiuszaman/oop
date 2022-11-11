@@ -9,6 +9,9 @@ package oop.model;
 /**
  *
  * @author senja
+ * NIM : 21041041
+ * NAMA : BADI USZAMAN
+ * KELAS : 3F D3 TEKNIK KOMPUTER
  */
 public class Biodata {
     String nama, alamat, jk, jurusan, kelas;
