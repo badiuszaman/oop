@@ -12,6 +12,9 @@ import oop.model.Biodata;
 /**
  *
  * @author senja
+ * NIM : 21041041
+ * NAMA : BADI USZAMAN
+ * KELAS : 3F D3 TEKNIK KOMPUTER
  */
 public class BiodataFrame extends javax.swing.JFrame {
 
